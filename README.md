@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Roberto Esparza, a C level executive, pivoting my carreer from HR to Fintech and Tech
-- 👀 I’m interested in Fintech, intrapreneurship, entrepreneurship and digital transformation.
-- 🌱 I’m currently learning crypto & blockchain, AI and Data Science, Fintech and Tech Development.
-- 💞️ I’m looking to collaborate on my own projects regarding remittances, financial wellness & the future of work. Also interested in managing Digital Transformation for solid companies.
+- 👋 Hi, I’m Roberto Esparza, a C level executive, pivoting my carreer from HR services to Fintech and Tech
+- 👀 I’m interested in Fintech, intrapreneurship, startups Tech dev, Growth, digital marketing, product Dev and AI
+- 🌱 I’m currently learning vibecoding with AI, Data Science, Fintech and Tech Dev in general
+- 💞️ I’m looking to collaborate on my own projects regarding leasing and financial services, software Dev, Startup HUB. 
 - 📫 You can reach me at roberto@startapps.mx
 
 <!---
